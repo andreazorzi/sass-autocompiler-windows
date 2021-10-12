@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "sass-autocompiler-windows:start-watcher"
   },
-  "repository": "https://github.com/andreaz/sass-autocompiler-windows",
+  "repository": "https://github.com/andreazorzi/sass-autocompiler-windows",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
