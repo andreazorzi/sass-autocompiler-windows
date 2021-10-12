@@ -1,4 +1,6 @@
 # SASS Autocompiler for Windows
+
+![](https://github.com/andreazorzi/sass-autocompiler-windows/blob/main/images/atom-plugin-2.gif?raw=true)
  
 This plugin allows you to compile a Sass file into a Css file.
 The generated Css file is not created in the same folder as the sass file but the plugin modifies the open Css file in atom.
