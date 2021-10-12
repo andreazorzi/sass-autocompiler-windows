@@ -1,0 +1,18 @@
+{
+  "name": "sass-autocompiler-windows",
+  "main": "./lib/sass-autocompiler-windows",
+  "version": "0.0.0",
+  "description": "Generate CSS code from a SASS file, searching for CSS target file in the opened tabs",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "sass-autocompiler-windows:start-watcher"
+  },
+  "repository": "https://github.com/andreaz/sass-autocompiler-windows",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sass-autocompiler-windows",
+        "command": "sass-autocompiler-windows:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sass-autocompiler-windows",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sass-autocompiler-windows:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
