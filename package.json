@@ -1,7 +1,7 @@
 {
   "name": "sass-autocompiler-windows",
   "main": "./lib/sass-autocompiler-windows",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate CSS code from a SASS file, searching for CSS target file in the opened tabs",
   "keywords": [
   ],
